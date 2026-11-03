@@ -1,0 +1,7 @@
+pandas>=2.0
+numpy
+pydantic>=2.0
+openpyxl
+matplotlib>=3.5
+python-docx
+streamlit>=1.30
